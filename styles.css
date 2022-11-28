@@ -1,0 +1,105 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Consolas', 'Courier';
+}
+
+main {
+  background-image: url("https://www.toptal.com/designers/subtlepatterns/uploads/white-waves.png");
+  padding: 0 10% 10% 10%;
+}
+
+#logo {
+  height: 50px;
+  width: 60px;
+  display: inline;
+  padding-left: 10%;
+
+}
+
+
+header {
+  background-color: #DBEBEA;
+  padding: 0;
+  height: 50px;
+  width: 100%;
+}
+
+nav a {
+  color: #0d685d;
+  float: right;
+  padding: 15px 25px;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+nav a:hover {
+  color:#052b27;
+}
+
+#lastnav {
+  padding-right: 10%;
+}
+
+
+hr { 
+  border-style: none;
+  border-top-style: dashed;
+  border-color:#0d685d;
+  border-width: 1.8px;
+  width: 0.7%;
+  padding-left: 10px;
+  margin: 5% 50%;
+}
+
+h1, h2, h3 {
+  font-family: 'Kanit', 'Sans-serif';
+}
+
+
+h1 {
+  font-size: 50px;
+  font-family: 'PT Serif';
+  padding: 10% 0 5% 0;
+}
+
+h2 {
+  font-size: 30px;
+  color:#0d685d;
+  padding-bottom: 2.5%;
+  font-weight: 700;
+}
+
+#tech {
+  color:black;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2.4em;
+}
+
+h3 {
+  padding-bottom: 2.5%;
+  font-size: 30px;
+}
+p {
+  line-height: 1.5;
+  padding-bottom: 2.5%;
+  font-size: 18px;
+}
+
+article p {
+  font-size: 16px;
+}
+
+footer {
+  background-color:#0d685d;
+  color:#DBEBEA;
+  height: 50px;
+  width: 100%;
+}
+
+#footer {
+  margin-bottom: 0em;
+  padding:15px 0 0 10%;
+  font-size: 16px;
+}
